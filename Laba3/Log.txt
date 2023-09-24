@@ -1,0 +1,64 @@
+TV enabled
+Wifi connected
+HOME opened successfully
+
+Volume increased to 11
+
+Channel changed to 1
+
+Channel changed to 2
+
+Channel changed to 0
+
+Screen mode: STANDART
+Screen type: IPS
+Volume: 11
+Enabled: true
+Wifi: Wifi connected
+Source: TELEVISION
+Channel number: 0
+Opened App: HOME
+
+Change source to Android TV
+
+Source changed to ANDROIDTV
+
+Screen mode: STANDART
+Screen type: IPS
+
+YOUTUBE opened successfully
+
+Screen mode changed to GAMING
+
+Screen mode: GAMING
+Screen type: IPS
+
+Screen mode changed to STANDART
+
+Volume decreased to 10
+
+Volume decreased to 9
+
+Wifi credentials changed to SSID: Password: 123
+
+YOUTUBE not opened
+
+Wifi not connected
+
+Wifi credentials changed to SSID:321 Password: 123
+
+Wifi connected
+
+NETFLIX opened successfully
+
+Screen mode: STANDART
+Screen type: IPS
+Volume: 9
+Enabled: true
+Wifi: Wifi connected
+Source: ANDROIDTV
+Channel number: 0
+Opened App: NETFLIX
+
+TV disabled
+
